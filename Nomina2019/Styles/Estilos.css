@@ -1,0 +1,35 @@
+﻿#frmGeneral label {
+    width: 120px;
+    display: inline-block;
+}
+
+#frmGeneral input {
+    margin: 2px;
+    margin-left: 4px;
+    width: 150px;
+}
+
+
+#frmGeneral select {
+    margin: 2px 0;
+    width: 154px;
+}
+
+#frmGeneral checkbox{
+    margin: 2px 0;
+    
+}
+
+button[type=submit] {
+    margin-top: 5px;
+}
+
+#fi{
+    margin:2px;
+    margin-left: 4px;
+    width: 154px;
+}
+
+
+
+
