@@ -1,7 +1,5 @@
 # Nominas
-prueba tecnica
-El proyecto trabaja con los siguiente script sql:
-
+SCRIPT:
 
 USE master
 GO
